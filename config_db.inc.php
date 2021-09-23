@@ -3,6 +3,6 @@
 define('DB_TYPE', 'mysql');
 define('DB_USER', 'root');
 define('DB_PASS', 'abc123');
-define('DB_HOST', 'db');
+define('DB_HOST', 'testlink-db');
 define('DB_NAME', 'testlink');
 define('DB_TABLE_PREFIX', '');
